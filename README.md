@@ -20,8 +20,6 @@ O projeto busca atender à crescente demanda por soluções de mobilidade elétr
 - Aumentar a conscientização sobre os benefícios ambientais dos veículos elétricos.
 - Melhorar a experiência do usuário, incentivando a adoção de tecnologias sustentáveis.
 
-## Arquitetura do Projeto
-![Arquitetura](link-da-imagem-da-arquitetura)
 
 ## Infraestrutura DevOps
 ### VM com Sistema Operacional Windows
